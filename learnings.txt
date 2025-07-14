@@ -11,3 +11,5 @@ git commit - m "First Commit"
 as a package and that can be installed in any other projects. Basically with the help
 of setup.py I will be able to build a machine learning application as a package and even deploy in PiPi
 where anyone can install and use it.
+
+##ipykernel is required to execute the code in the jupyter notebook
