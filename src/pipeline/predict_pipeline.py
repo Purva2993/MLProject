@@ -26,7 +26,7 @@ class PredictPipeline:
         
 #This class will be responsible for mapping all the inputs we are giving in the html to the backend with this particular values
 class CustomData:
-    def __init__(  self,
+    def __init__(self,
         gender: str,
         race_ethnicity: str,
         parental_level_of_education,
